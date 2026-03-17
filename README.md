@@ -138,6 +138,3 @@ Or open `who_eda.Rproj` in RStudio and run scripts interactively.
 
 ---
 
-## 📄 License
-
-This project is for academic/educational use. Data sourced from [WHO](https://www.who.int/) via Kaggle.
