@@ -1,0 +1,15 @@
+# R
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj.user
+
+# Data (raw data not committed — too large; processed can be committed)
+data/raw/
+
+# Outputs (optional: commit figures or not)
+outputs/
+
+# OS
+.DS_Store
+Thumbs.db
